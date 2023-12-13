@@ -83,6 +83,7 @@ In the forward pass:
 
 
 
+
 If jth neuron is output neuron, the m=mL  and output of j th neuron is
                ![image](https://user-images.githubusercontent.com/112920679/198814349-a6aee083-d476-41c4-b662-8968b5fc9880.png)
 
